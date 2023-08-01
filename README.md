@@ -1,7 +1,7 @@
 ### My name is Ana
 
     🎓 Software engineer with experience in the design, development and improvement of applications
-    💻 Sometimes I think I don't like programming, but I always do it again.
+    💻 Currently in the health service, I love that!🥳
     🍎 Eventual teacher, although there is always someone to teach.
     📫 Enthusiast of Free Software.
 

@@ -28,3 +28,4 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=0769AD)
 ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat&logo=mySQL)
+![Oracle](https://img.shields.io/badge/-Oracle-lightgrey?style=flat&logo=Oracle)

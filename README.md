@@ -27,4 +27,4 @@
 **Others**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=0769AD)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mySQL&logoColor=ff0000)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mySQL&logoColor=white)

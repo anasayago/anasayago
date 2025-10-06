@@ -24,7 +24,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 
-**Others**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=0769AD)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mySQL&logoColor=white)

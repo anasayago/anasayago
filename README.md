@@ -1,9 +1,10 @@
 ### My name is Ana
 
     🎓 Software engineer with experience in the design, development and improvement of applications
-    💻 Currently in the health service, I love that!🥳
+    💻 I care that data be accurate, reliable, and managed with best practices.
     🍎 Eventual teacher, although there is always someone to teach.
-    📫 Enthusiast of Free Software.
+    🗂️ I study data science and machine learning to make better decisions, improve performance, and uncover useful insights.
+    🐧 Enthusiast of Free Software.
 
 
 **Languages I have used**
